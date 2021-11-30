@@ -1,4 +1,5 @@
 # PashuKISkills
+The plugin is compatible with Minecraft version: 1.17.1
 This plugin adds "Skills" to the game.
 With the plugin, Every player can collect mining/farming/combat/woodcutting EXP which counts how much blocks/mobs the player harvested/killed so far, Depends on what block/mob.
 For example, If a player mined a diamond ore, The player gets 20 mining EXP, However, If the player mined a stone block, The player get 2 mining EXP, Basicly the same with farming & woodcutting.
